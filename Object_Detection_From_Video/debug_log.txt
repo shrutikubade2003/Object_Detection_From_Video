@@ -1,0 +1,10 @@
+Image: video_7_frame_00410_jpg.rf.2ffa17de065d72a60bcfb03ee2061e6c.jpg, Predictions: [[0.8120548725128174]], Class Index: 0
+Image: video_16_frame_00642_jpg.rf.abafcfb5dcb079559e330b26569b41cc.jpg, Predictions: [[0.7391216158866882]], Class Index: 0
+Image: video_14_frame_00035_jpg.rf.9718589528075852f44f86b5620df571.jpg, Predictions: [[0.7938412427902222]], Class Index: 0
+Image: video_12_frame_00112_jpg.rf.2fc1899220caf58edf4c743910222cdb.jpg, Predictions: [[0.6830134987831116]], Class Index: 0
+Image: video_2_frame_00287_jpg.rf.f380bde43955262208a4e91d70d70722.jpg, Predictions: [[0.6436817049980164]], Class Index: 0
+Image: video_15_frame_00093_jpg.rf.b5b31620c7aea41c13daae57d530db95.jpg, Predictions: [[0.8161852955818176]], Class Index: 0
+Image: video_7_frame_00340_jpg.rf.3167241cebaf7363a043cf981f6ce055.jpg, Predictions: [[0.6089134216308594]], Class Index: 0
+Image: video_1_frame_00023_jpg.rf.6add99764e463db78f3b93cab21b40ae.jpg, Predictions: [[0.6346818208694458]], Class Index: 0
+Image: video_13_frame_00161_jpg.rf.844eff324e4a16f358c877bd5238aac8.jpg, Predictions: [[0.7148327231407166]], Class Index: 0
+Image: video_7_frame_00189_jpg.rf.77e927c15ab263fc53fd250747bb1b1b.jpg, Predictions: [[0.6970326900482178]], Class Index: 0

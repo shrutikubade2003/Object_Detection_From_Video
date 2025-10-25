@@ -1,0 +1,11 @@
+Image Name,Confidence,Detection Result,Class Name,Bounding Box
+video_12_frame_00112_jpg.rf.2fc1899220caf58edf4c743910222cdb.jpg,45.37%,Object Detected,squirrel,46
+video_13_frame_00161_jpg.rf.844eff324e4a16f358c877bd5238aac8.jpg,48.83%,Object Detected,squirrel,49
+video_14_frame_00035_jpg.rf.9718589528075852f44f86b5620df571.jpg,59.74%,Object Detected,squirrel,60
+video_15_frame_00093_jpg.rf.b5b31620c7aea41c13daae57d530db95.jpg,53.96%,Object Detected,squirrel,54
+video_16_frame_00642_jpg.rf.abafcfb5dcb079559e330b26569b41cc.jpg,55.43%,Object Detected,squirrel,56
+video_1_frame_00023_jpg.rf.6add99764e463db78f3b93cab21b40ae.jpg,56.24%,Object Detected,squirrel,57
+video_2_frame_00287_jpg.rf.f380bde43955262208a4e91d70d70722.jpg,55.32%,Object Detected,squirrel,56
+video_7_frame_00189_jpg.rf.77e927c15ab263fc53fd250747bb1b1b.jpg,63.33%,Object Detected,squirrel,64
+video_7_frame_00340_jpg.rf.3167241cebaf7363a043cf981f6ce055.jpg,58.07%,Object Detected,squirrel,59
+video_7_frame_00410_jpg.rf.2ffa17de065d72a60bcfb03ee2061e6c.jpg,51.81%,Object Detected,squirrel,52

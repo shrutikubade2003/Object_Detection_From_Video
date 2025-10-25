@@ -1,0 +1,11 @@
+Image Name,Confidence,Detection Result,Class Name,Bounding Box
+video_7_frame_00410_jpg.rf.2ffa17de065d72a60bcfb03ee2061e6c.jpg,81.21%,Object Detected,parrot,82
+video_16_frame_00642_jpg.rf.abafcfb5dcb079559e330b26569b41cc.jpg,73.91%,Object Detected,elliptical trainer,74
+video_14_frame_00035_jpg.rf.9718589528075852f44f86b5620df571.jpg,79.38%,Object Detected,squirrel,80
+video_12_frame_00112_jpg.rf.2fc1899220caf58edf4c743910222cdb.jpg,68.30%,Object Detected,duck,69
+video_2_frame_00287_jpg.rf.f380bde43955262208a4e91d70d70722.jpg,64.37%,Object Detected,train,65
+video_15_frame_00093_jpg.rf.b5b31620c7aea41c13daae57d530db95.jpg,81.62%,Object Detected,tomato,82
+video_7_frame_00340_jpg.rf.3167241cebaf7363a043cf981f6ce055.jpg,60.89%,Object Detected,house,61
+video_1_frame_00023_jpg.rf.6add99764e463db78f3b93cab21b40ae.jpg,63.47%,Object Detected,brid,64
+video_13_frame_00161_jpg.rf.844eff324e4a16f358c877bd5238aac8.jpg,71.48%,Object Detected,parrot,72
+video_7_frame_00189_jpg.rf.77e927c15ab263fc53fd250747bb1b1b.jpg,69.70%,Object Detected,parrot,70
